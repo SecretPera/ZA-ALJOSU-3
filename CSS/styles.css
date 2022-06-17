@@ -1,0 +1,63 @@
+.Opel{
+
+  position: relative;
+}
+
+.skoda{
+  text-align: center;
+  position: relative;
+
+}
+.Skodica{
+  left: 500px;
+  position: relative;
+  bottom: 400px;
+}
+
+body{
+  background-color: grey;
+}
+h1{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.Skodilak{
+  position: relative;
+  bottom:400px;
+  left: 600px;
+
+}
+.Mercedes{
+  position: relative;
+  text-align: center;
+}
+.Merc{
+  position: relative;
+  bottom:750px;
+  left: 450px;
+
+}
+.merdza{
+  position: relative;
+  bottom:750px;
+  left: 450px;
+
+
+}
+
+.BMW{
+  position: relative;
+  left: 1500px;
+  bottom: 1080px;
+  right: 200px;
+}
+.e46{
+ position: relative;
+left: 50px;
+
+}
+
+.smajl{
+  position: relative;
+  bottom: 870px;
+  right: 200px;
+}
